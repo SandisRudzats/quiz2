@@ -8,6 +8,8 @@ Instructions:
 2.import database from localhost.sql
 3.after importing database make a config.php file in src folder with these parametrs:
 
+<?php
+//
 
  DB Config
 define('DB_DRIVER', 'mysql');
