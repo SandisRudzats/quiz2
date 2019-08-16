@@ -1,2 +1,7 @@
-
 /vendor/
+composer.lock
+public/phpmyadmin
+node_modules
+package-lock.json
+/public/phpma/
+.idea
