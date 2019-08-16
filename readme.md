@@ -12,13 +12,23 @@ Instructions:
 //
 
  DB Config
-define('DB_DRIVER', 'mysql');
-define('DB_HOST', 'localhost');
-define('DB_DATABASE', 'quizzes');
-define('DB_USERNAME', 'homestead');
-define('DB_PASSWORD', 'secret');
-define('DB_CHARSET', 'utf8');
-define('DB_COLLATION', 'utf8_unicode_ci');
-define('DB_PREFIX', '');
+define('DRIVER', 'mysql');
+define('HOST', 'localhost');
+define('DATABASE', 'quizzes');
+define('USERNAME', 'homestead');
+define('PASSWORD', 'secret');
+define('CHARSET', 'utf8');
+define('COLLATION', 'utf8_unicode_ci');
+define('PREFIX', '');
 
+
+4.install all required composer dependecies in root folder
+
+    composer install
+    
+5.install all required npm modules in root folder
+
+    npm install
+    
+    
 Done.
