@@ -1,7 +1,7 @@
 
 
-MySQL datubaze sql_dump faila.
-pec datu bazes importesanas src mape jaizveido config.php fails ar sekojoso informaciju:
+1. MySQL datubaze pieejama sql_dump faila.
+2.pec datu bazes importesanas src mape jaizveido config.php fails ar sekojoso informaciju:
 
 <?php
 
